@@ -57,9 +57,18 @@ myexperience/
 
 **Verification:** Issuer contact — info@aarkax.com
 
+## 🚀 Personal Projects
+
+These are independent projects built by me, not as part of any company work.
+
+- **[CafeCraft](https://github.com/bhavyatiwari10/cafe-management-dashboard)** — Role-based cafe management dashboard (inventory, complaints, feedback) built with React + TypeScript + Tailwind. [Live demo →](https://cafe-management-dashboard-beta.vercel.app/)
+- **[SplitSmart](https://github.com/bhavyatiwari10/Split-Smart-Advance-System-)** — Group expense splitter with debt-simplification, SVG charts, achievements, and a command palette. Built with vanilla JS. [Live demo →](https://bhavyatiwari10.github.io/Split-Smart-Advance-System-/)
+- **[CivicScan](https://github.com/bhavyatiwari10/Civic-Scan)** — Biometric-gated online voting flow (face scan → login → vote) with a SHA-256 hash-chained audit trail, anonymous verifiable receipts, and live turnout charts. [Live demo →](https://bhavyatiwari10.github.io/Civic-Scan/)
+- **[DriveNest](https://github.com/bhavyatiwari10/DriveNest)** — Full-stack car rental platform with vehicle discovery, advanced fleet filtering, secure booking, booking history, cancellation, date-overlap validation, and a user dashboard. Built with Django + Python + SQLite + HTML/CSS/JavaScript. [Live demo →](https://drivenest-vpaq.onrender.com/)
+
 ## 🛠️ Skills
 
-`AI / ML` `Prompt Engineering` `Model Evaluation` `Workflow Automation` `Data Preparation` `Git & GitHub` `Python` · `Data Structures & Algorithms` · `REST APIs` · `Artificial Intelligence`.`Machine Learning`.`Fast APIs`
+`AI / ML` `Prompt Engineering` `Model Evaluation` `Workflow Automation` `Data Preparation` `Git & GitHub` `Python` `Data Structures & Algorithms` `REST APIs`  `Artificial Intelligence` `Machine Learning` `Fast APIs`
 
 ## 📝 Notes
 
