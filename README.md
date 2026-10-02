@@ -43,7 +43,7 @@ myexperience/
 - **Certificate Issued:** 1 October 2026
 - **Signed by:** Ishan Sharma, Founder, AarkaX
 
-**Role and responsibilities (as per offer letter):**
+**Role and responsibilities:**
 - Supporting AI application development, model evaluation, prompt design, and workflow automation
 - Assisting with data preparation, testing, documentation, and research for AI-enabled product features
 - Following engineering practices for version control, code quality, privacy, and information security
@@ -59,7 +59,7 @@ myexperience/
 
 ## 🛠️ Skills
 
-`AI / ML` `Prompt Engineering` `Model Evaluation` `Workflow Automation` `Data Preparation` `Git & GitHub`
+`AI / ML` `Prompt Engineering` `Model Evaluation` `Workflow Automation` `Data Preparation` `Git & GitHub` `Python` · `Data Structures & Algorithms` · `REST APIs` · `Artificial Intelligence`.`Machine Learning`.`Fast APIs`
 
 ## 📝 Notes
 
