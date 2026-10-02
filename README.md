@@ -7,8 +7,8 @@ A personal record of my professional journey — internships, jobs, certificates
 - **Name:** Bhavya Tiwari
 - **Aspiring / Current Role:** AI Engineer
 - **Email:** bhavyatiwari098@gmail.com
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/bhavya-tiwari-449021297/)
-- **GitHub:** [github.com/your-username](https://github.com/bhavyatiwari10)
+- **LinkedIn:** [linkedin.com/in/My-Profile](https://www.linkedin.com/in/bhavya-tiwari-449021297/)
+- **GitHub:** [github.com/My-Profile](https://github.com/bhavyatiwari10)
 
 ## 📌 Experience Summary
 
