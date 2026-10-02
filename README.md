@@ -1,0 +1,75 @@
+# 📁 My Experience
+
+A personal record of my professional journey — internships, jobs, certificates, and supporting documents, all in one place.
+
+## 👤 About Me
+
+- **Name:** Bhavya Tiwari
+- **Aspiring / Current Role:** AI Engineer
+- **Email:** your.email@example.com
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **GitHub:** [github.com/your-username](https://github.com/your-username)
+
+## 📌 Experience Summary
+
+| # | Company | Role | Type | Duration | Mode | Status | Documents |
+|---|---------|------|------|----------|------|--------|-----------|
+| 1 | [AarkaX](https://aarkax.com) (Aarkax Private Limited) | AI Engineer Intern | Internship | 1 Jul 2026 – 30 Sep 2026 | Remote | ✅ Completed | [Offer Letter](internships/01-aarkax-ai-engineer-intern/offer-letter.pdf) · [Certificate](internships/01-aarkax-ai-engineer-intern/completion-certificate.pdf) |
+
+> More experiences will be added here as I grow.
+
+## 🗂️ Repository Structure
+
+```
+myexperience/
+├── README.md
+├── internships/
+│   └── 01-aarkax-ai-engineer-intern/
+│       ├── offer-letter.pdf
+│       └── completion-certificate.pdf
+├── jobs/              # future full-time / part-time job documents
+├── certifications/    # courses, workshops, online certificates
+└── projects/          # shareable work and personal projects
+```
+
+## 🏢 Internship Details
+
+### 1. AarkaX — AI Engineer Intern
+
+- **Organization:** Aarkax Private Limited ([aarkax.com](https://aarkax.com))
+- **Department:** Engineering and Artificial Intelligence
+- **Duration:** 1 July 2026 – 30 September 2026 (3 months)
+- **Work Mode:** Remote
+- **Certificate Issued:** 1 October 2026
+- **Signed by:** Ishan Sharma, Founder, AarkaX
+
+**Role and responsibilities (as per offer letter):**
+- Supporting AI application development, model evaluation, prompt design, and workflow automation
+- Assisting with data preparation, testing, documentation, and research for AI-enabled product features
+- Following engineering practices for version control, code quality, privacy, and information security
+- Participating in regular mentor check-ins and sharing progress, blockers, and learning outcomes
+
+**Skills gained:** AI Application Development · Model Evaluation · Prompt Design · Workflow Automation · Data Preparation · Testing & Documentation · Version Control
+
+**Documents:**
+- 📄 [Internship Offer Letter](internships/01-aarkax-ai-engineer-intern/offer-letter.pdf)
+- 🏅 [Internship Completion Certificate](internships/01-aarkax-ai-engineer-intern/completion-certificate.pdf)
+
+**Verification:** Issuer contact — info@aarkax.com
+
+## 🛠️ Skills
+
+`AI / ML` `Prompt Engineering` `Model Evaluation` `Workflow Automation` `Data Preparation` `Git & GitHub`
+
+## 📝 Notes
+
+- Documents are stored here for personal record and verification purposes.
+- In line with the confidentiality terms of my internship, no proprietary company code or internal information is shared in this repository.
+
+## 📬 Contact
+
+For verification or collaboration: **your.email@example.com**
+
+---
+
+⭐ *This repository is updated whenever I gain new experience.*
