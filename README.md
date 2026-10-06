@@ -68,7 +68,7 @@ These are independent projects built by me, not as part of any company work.
 
 ## 🛠️ Skills
 
-`AI / ML` `Prompt Engineering` `Model Evaluation` `Workflow Automation` `Data Preparation` `Git & GitHub` `Python` `Data Structures & Algorithms` `REST APIs`  `Artificial Intelligence` `Machine Learning` `Fast APIs`
+`AI / ML` `Model Evaluation` `Workflow Automation` `Data Preparation` `Git & GitHub` `Python` `Data Structures & Algorithms` `REST APIs`  `Artificial Intelligence` `Machine Learning` `Fast APIs`
 
 ## 📝 Notes
 
